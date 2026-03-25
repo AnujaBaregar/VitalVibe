@@ -1,0 +1,5 @@
+{
+  "name": "VitalVibe: Personalized Health Assistant",
+  "description": "An intelligent health dashboard that generates personalized meal and exercise plans based on your unique profile, medical history, and location.",
+  "requestFramePermissions": []
+}
